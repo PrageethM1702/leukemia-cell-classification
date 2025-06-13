@@ -1,6 +1,11 @@
 # 🧬 Blood Cell Cancer Classification using PyTorch
 
-This repository provides a deep learning model built with PyTorch to classify blood cell images into four types related to acute lymphoblastic leukemia (ALL). The model is based on a fine-tuned ResNet18 architecture.
+This repository provides a deep learning model built with PyTorch to classify blood cell images into four types related to acute lymphoblastic Leukemia (ALL). The model is based on a fine-tuned ResNet18 architecture.
+
+
+Download the trained model file here:  
+[Google Drive model link](https://drive.google.com/file/d/1BuuQ4bGZo9VZl1JZipmRt5H0TXZlVacT/view?usp=sharing)
+
 
 ---
 
