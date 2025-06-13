@@ -75,32 +75,8 @@ Weighted F1 Score: 0.9876
 
 ---
 
-## 📥 Download Model
-
-import zipfile  
-with zipfile.ZipFile('model.zip', 'w') as zipf:  
-  zipf.write('best_model.pth')  
-
-from IPython.display import FileLink  
-FileLink('model.zip')
-
----
-
-## 🧠 Future Improvements
-
-- Integrate Grad-CAM for model explainability
-- Add web interface using Streamlit or Flask
-- Expand dataset with more diverse samples
-- Fine-tune deeper layers for better generalization
-
----
-
 ## 📌 License
 
 This project is released under the MIT License.
 
 ---
-
-## 🤝 Contributions
-
-Pull requests and forks are welcome. If you find a bug or have a feature request, feel free to open an issue.
